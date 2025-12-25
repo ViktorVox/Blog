@@ -23,7 +23,7 @@
 ## Структура проекта
 
 Проект следует классической MVC архитектуре Laravel:
-* `app/Http/Controllers/PostController.php` — Логика работы с постами.
+* `app/Http/Controllers/BlogController.php` — Логика работы с постами.
 * `database/migrations/` — Структура базы данных (нормализованная).
 * `resources/views/` — Шаблоны страниц (Blade).
 
